@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "OfficeCodePro:pixelsize=26:antialias=true:autohint=true";
+static char *font = "Office Code Pro:pixelsize=26:antialias=true:autohint=true";
 static int borderpx = 1;
 
 /*
